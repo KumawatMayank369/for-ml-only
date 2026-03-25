@@ -1,4 +1,4 @@
 # for-ml-only
-i am datya scitiest and engineer
+i am data scintiest and engineer
 <br>
 ongoing with ml
